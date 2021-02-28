@@ -33,28 +33,19 @@
 
 
 ## About The Project
+
 <p align="center">
-![Project Screen Shot][product-screenshot] 
-![Project Screen Shot][product-screenshot]
-![Project Screen Shot][product-screenshot]
+   <img src="https://preview.redd.it/4w4v1oi3yzo41.png?width=2368&format=png&auto=webp&s=85d2c795f41203eb07c498ca2ffea1cf6b81a405" alt="Screenshot">
 </p>
 
-
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life.
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+There are so many README templates, builders and etc., however I couldn't find the one I needed. So I created this one for using in my projects as a template. It's not completely what I needed, but anyway, works for now. This project is available for anyone on the web and any contribution is greatly welcome. Contributions are what make the open source community such an amazing place to be learn, inspire, and create. © 
 
 
-## Built With
+## Packages, libraries, modules and more
 
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [Kotlin Coroutines](https://kotlinlang.org/docs/coroutines-guide.html)
+* [Retrofit](https://github.com/square/retrofit)
+* [Firebase](https://firebase.google.com/docs)
 
 
 ## Getting Started
@@ -92,9 +83,7 @@ This is an example of how to list things you need to use the software and how to
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-![alt text](https://appradar.com/wp-content/uploads/evernote-dark-mode-app-screenshots-1024x732.png)
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources. 
 
 
 ## Acknowledgements

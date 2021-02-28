@@ -48,11 +48,16 @@ There are so many README templates, builders and etc., however I couldn't find t
 
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+To get a local copy and running, follow the steps below.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+* This app runs on all major operating systems and requires [Java JDK](https://adoptopenjdk.net) version 8 or higher to be installed. To check, run 
+
+ ```sh
+java -version
+```
+
 * [npm](https://www.npmjs.com/get-npm) 
 
   ```sh

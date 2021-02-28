@@ -53,26 +53,27 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* npm ---For more details, visit [here](https://www.npmjs.com/get-npm)
+
 
   ```sh
   npm install npm@latest -g
   ```
-For more details, visit [Official website](https://www.npmjs.com/get-npm)
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repo *For more details, visit [here](https://git-scm.com)
+
    ```sh
    git clone https://github.com/iamaydan/project-readme-template.git
    ```
    
-   If you're using GitHub CLI, you can also use the code below in git terminal.
+   If you're using GitHub CLI, you can also use the code below in git terminal. *For more details, visit [here](https://cli.github.com)
 
    ```sh
    gh repo clone iamaydan/project-readme-template
    ```
-
+   
 2. Install NPM packages
 
    ```sh

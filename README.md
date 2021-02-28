@@ -72,7 +72,7 @@ To get a local copy and running, follow the steps below.
    git clone https://github.com/iamaydan/project-readme-template.git
    ``` 
    
-   If you're using [GitHub CLI](https://cli.github.com), you can also use the code below in git terminal. 
+   If you're using [GitHub CLI](https://cli.github.com), you can also use the code below. 
 
    ```sh
    gh repo clone iamaydan/project-readme-template

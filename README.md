@@ -1,10 +1,16 @@
-# X Repo
-![alt text](https://i.ytimg.com/vi/S5JDPi_6N2s/maxresdefault.jpg)
+# Overview
+![alt text](https://appradar.com/wp-content/uploads/evernote-dark-mode-app-screenshots-1024x732.png)
 
-General description of repo
-Example: Portfolio of my university assignments completed by me for Academic purposes.
+General description of project
 
-## Table of Contents
+Example: This toy app is an Android app showing Lifecycle Events and written with Kotlin.
+
+
+### Built With
+
+* []()
+* []()
+* []()
 
 ### #️⃣ A
 
@@ -27,11 +33,39 @@ Example: Portfolio of my university assignments completed by me for Academic pur
 3. [Name3](link3) : Desc3
 
 
-# License
+## Installation
 
-[Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)    
+Just copy the code below and paste it to any command line you use.
+
+```bash
+git clone https://github.com/iamaydan/Task2.git
+```
+
+If you're using GitHub CLI, you can also use the code below in git terminal.
+
+```bash
+gh repo clone iamaydan/Task2
+```
+
+
+## Usage
+
+To use this app you need to import it in Android Studio.
+
+
+## Acknowledgements
+
+* []()
+* []()
+* []()
+
 
 
 # Contribution
 
 Have you spotted a typo, would you like to fix a link, or is there something you’d like to suggest? Browse the source repository of this article and open a pull request. I will do my best to review your proposal in due time.
+
+
+# License
+
+[Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)    
